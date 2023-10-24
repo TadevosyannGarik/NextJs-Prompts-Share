@@ -7,19 +7,19 @@
 
 | App images |
 |:------:|
-| ![Register page](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/registration.png) |
+| ![Register page](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/registration.png) |
 | |
-| ![Register page](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/homepage.png) |
+| ![Register page](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/homepage.png) |
 | |
-| ![Log In page](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/myprofile.png) |
+| ![Log In page](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/myprofile.png) |
 | |
-| ![After login](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/addtpost.png) |
+| ![After login](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/addtpost.png) |
 | |
-| ![Categories](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/edittpost.png) |
+| ![Categories](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/edittpost.png) |
 | |
-| ![Transactions](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/search.png) |
+| ![Transactions](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/search.png) |
 | |
-| ![Transactions](https://github.com/TadevosyannGarik/CostsApp-NestJs-React/blob/main/images/db.png) |
+| ![Transactions](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/db.png) |
 
 
 
