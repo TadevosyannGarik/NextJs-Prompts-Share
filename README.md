@@ -13,9 +13,9 @@
 | |
 | ![Log In page](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/myprofile.png) |
 | |
-| ![After login](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/addtpost.png) |
+| ![After login](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/addpost.png) |
 | |
-| ![Categories](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/edittpost.png) |
+| ![Categories](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/editpost.png) |
 | |
 | ![Transactions](https://github.com/TadevosyannGarik/NextJs-Prompts-Share/blob/main/images/search.png) |
 | |
